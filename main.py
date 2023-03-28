@@ -24,7 +24,6 @@ class comma:
     def comma(self):
         return ","
 
-
 class space:
     def space(self):
         return " "
